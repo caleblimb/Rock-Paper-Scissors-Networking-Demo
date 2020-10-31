@@ -15,5 +15,6 @@ $ pip install pygame
 # Execution
 
 Start the server: `$ python server.py`
+
 Start each client: `$ python client.py`
 
