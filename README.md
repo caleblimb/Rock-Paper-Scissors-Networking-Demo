@@ -1,4 +1,4 @@
-# Cawepa
+# Rock, Paper, Scissors
 
 This is a demonstration of Rock, Paper, Scissors over a network.
 
